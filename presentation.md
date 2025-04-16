@@ -8,7 +8,7 @@
 
 A structured approach to software development.
 
-*   [Sample product - PromptArt](https://chatgpt.com/share/67fe5f4f-3a00-8007-b4fb-c5ff98518e98)
+
 
 
 ---
@@ -63,3 +63,11 @@ A structured approach to software development.
 *   Commit code changes for the completed feature/task to the version control system (e.g., Git).
 *   Push changes to the remote repository (e.g., GitHub).
 *   Strive for atomic commits related to specific features or logical units of work.
+
+
+# Resources
+
+*   [Sample product - PromptArt](https://chatgpt.com/share/67fe5f4f-3a00-8007-b4fb-c5ff98518e98)
+*   [GPT Agent reccord video 1](https://www.youtube.com/watch?v=6rCLVMkZSG0)
+*   [GPT Agent reccord video 2](https://www.youtube.com/watch?v=Yxb3qSNfzs0)
+
